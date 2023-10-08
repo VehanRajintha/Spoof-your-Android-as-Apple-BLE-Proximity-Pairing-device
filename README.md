@@ -6,4 +6,4 @@ https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-mobile
 - After downloaded that apk then you need to install it.
   After opening the app and giving the relevant permission, you can see an interface like this....
   
-  ![4to1](4to1.jpg)
+  ![todo](todo.mp4)
