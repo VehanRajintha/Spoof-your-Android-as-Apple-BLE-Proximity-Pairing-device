@@ -11,17 +11,17 @@ https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-mobile
   ![20231008_224809](20231008_224809.gif)
 
 
-  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FSpoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 ![Docker Size](https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Size)
 ![Docker Pulls](https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Pulls)
 
-![forks](https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social)
+![forks](https://img.shields.io/github/forks/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?style=social)
 
 ![size](https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
 - Now enable Bluetooth adapter and click the Advertiser secter.
