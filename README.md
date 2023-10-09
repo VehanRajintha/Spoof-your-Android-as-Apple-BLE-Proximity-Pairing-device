@@ -13,14 +13,12 @@ https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-mobile
 
   ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FSpoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?style=flat&logo=docker&label=Docker+Pulls)
 
 ![forks](https://img.shields.io/github/forks/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?style=social)
 
-![size](https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/VehanRajintha/Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
