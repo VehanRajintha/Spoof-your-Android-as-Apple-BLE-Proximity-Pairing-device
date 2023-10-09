@@ -20,6 +20,8 @@ https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-mobile
 
   Every payload code is down there, all they have to do is copy the payload code of the device they want to spoof and put it in the place called Hex Data.
 
+ ** Payload Data
+
 1.Airpods
 
 ````
@@ -174,7 +176,6 @@ https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-mobile
 
 ````
 
-23.AppleTVConnectingToNetwork
 
 
 
