@@ -1,4 +1,4 @@
-# Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-devise
+# Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-device
 
 # Plese Follow Below Steps & Instructions To Do this Propper
 
