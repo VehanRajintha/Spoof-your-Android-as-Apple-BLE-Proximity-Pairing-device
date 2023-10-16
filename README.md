@@ -1,5 +1,7 @@
 # Spoof-your-Android-as-Apple-BLE-Proximity-Pairing-device
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Spoof+your+Android+as+Apple+BT+device)](https://git.io/typing-svg)
+
 # Plese Follow Below Steps & Instructions To Do this Propper
 
 First of all you need to download nRF Connected App Use below link to download it
