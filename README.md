@@ -205,4 +205,13 @@ https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-mobile
 
 
 
+
+
+
+mhghdhtvfhfvgfg
+
+
+
+
+
   
